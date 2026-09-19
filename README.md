@@ -1,4 +1,4 @@
-# Hi, I'm بشفثپث
+# Hi, I'm Fateme
 
 I'm a data analyst with a background in economics and a strong interest in problem-solving and analysis. I enjoy working with data to uncover patterns, answer business questions, and support better decisions.
 
