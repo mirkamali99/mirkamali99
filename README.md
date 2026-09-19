@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm بشفثپث
 
-<!--
-**mirkamali99/mirkamali99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a background in economics and a strong interest in problem-solving and analysis. I enjoy working with data to uncover patterns, answer business questions, and support better decisions.
 
-Here are some ideas to get you started:
+Currently building hands-on projects in Python, SQL, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **MSc in Economics** — Tarbiat Modares University
+- **BSc in Economics** — University of Tehran
+
+## Skills
+- **Python** — Pandas, NumPy, Matplotlib, Scikit-learn
+- **SQL** — PostgreSQL
+- **Power BI** — Dashboards, DAX, Data Modeling
+
+## Projects
+| # | Project | Tools |
+
+## Contact
+- Email: [f.mirkamali.company@gmail.com]
